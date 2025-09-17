@@ -13,3 +13,5 @@
     --cpu_limit=500m
     --memory_limit=400Mi
 ```
+
+service is available at `https://<zen-route>/physical_location/default-pl/<app_name>-<app_run_id>/`
